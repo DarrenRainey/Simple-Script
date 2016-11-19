@@ -6,7 +6,7 @@ Simple Script is a simple programming launage to make more complex code
 
 For example:
 
-SS:-----------------------C:
-say hello-----------------printf("hello\n");
+SS - say hello
+C - printf("hello\n");
 
 This is a work in progress project that aims to make it really easy for anyone even people with no coding experince to write code in plain english
