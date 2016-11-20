@@ -1,3 +1,6 @@
+#!/bin/bash
+#  Simple Script Converter By Darren Rainey  V1.0A
+
 if [ "$1" = "say" ];
     then
 	echo '	printf("'$2'\n");'
