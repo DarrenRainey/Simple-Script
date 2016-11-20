@@ -2,4 +2,4 @@ File:					Description:
 simple-script-to-c.sh		        Converts SS To C file
 convert.bash				The "compiler"
 example.ss                              Example SS File
-LICENSE                                GNU v3 License File
+LICENSE                                  GNU v3 License File
