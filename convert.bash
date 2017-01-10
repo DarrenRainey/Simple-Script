@@ -15,4 +15,10 @@ elif [ "$1" = "end" ];
     then
 	echo '	return 0;
 }'
+
+elif [ "$1" = "delay $2" ];
+    then
+	echo '	delay('$2');
+}'
+
 fi
