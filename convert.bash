@@ -21,4 +21,15 @@ elif [ "$1" = "delay $2" ];
 	echo '	delay('$2');
 }'
 
+elif [ "$1" = "start-infinite-loop" ];
+    then
+	echo '	for( ; ;){
+}'
+
+elif [ "$1" = "end-infinite-loop" ];
+    then
+	echo '	}
+}'
+
+
 fi
